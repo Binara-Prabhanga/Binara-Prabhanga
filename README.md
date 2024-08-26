@@ -49,13 +49,21 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
+
+## 📈 GitHub Stats:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=binara-prabhanga&show_icons=true&locale=en" alt="binara-prabhanga" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Binara-Prabhanga&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binara-prabhanga&" alt="binara-prabhanga" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Logo" />
+</p>
+
+<br>
+
+## 🔥 GitHub Streak:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Binara-Prabhanga&theme=radical" alt="GitHub Streak" />
 </p>
 
 <br>
@@ -63,7 +71,7 @@
 <h3 align="center">🏆 GitHub Trophies:</h3>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=binara-prabhanga" alt="binara-prabhanga" />
+    <img src="https://github-profile-trophy.vercel.app/?username=binara-prabhanga&theme=radical" alt="binara-prabhanga" />
   </a>
 </p>
 
