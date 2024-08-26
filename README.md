@@ -10,8 +10,8 @@
 <div align="center">
 
 ## 🛠 Languages-Frameworks-Tools:
-<img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/-Shell-0D1117?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell"/>
+<img src="https://img.shields.io/badge/0D1117?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/0D1117?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell"/>
 <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/-Firebase-0D1117?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
 <img src="https://img.shields.io/badge/-NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
