@@ -13,10 +13,10 @@
 <!-- Add more icons as needed -->
 
 ## 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Binara-Prabhanga&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Binara-Prabhanga&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
 
 ## 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binara-Prabhanga&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binara-Prabhanga&layout=compact&langs_count=100&theme=dark)
 
 ## 🏆 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Binara-Prabhanga&theme=dark)
