@@ -6,7 +6,9 @@
   🌱 I’m currently learning Deep Learning 
   
   <br>
+  
 ## 🛠 Languages-Frameworks-Tools:
+
 <img src="https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
 <img src="https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
