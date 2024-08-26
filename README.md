@@ -5,13 +5,13 @@
 ### 🌍 A passionate software developer from Sri Lanka
 
 🌱 **I’m currently working on:**  
-- A Weather prediction algorithm based on real-time data on a UAV
+A Weather prediction algorithm based on real-time data on a UAV
 
 📚 **I’m currently learning:**  
-- Deep Learning, Machine Learning, and more
+Deep Learning, Machine Learning, and more
 
 🚀 **What I do:**  
-- Full-stack Development | AI Enthusiast | Open Source Contributor
+Full-stack Development | AI Enthusiast | Technical Writer 
 
 <br>
 
