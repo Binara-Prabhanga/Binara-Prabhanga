@@ -15,6 +15,12 @@
   <!-- Add more icons as needed -->
   
   <br>
+  <div align="center">
+
+  ![Animated GIF](https://media.giphy.com/media/3o7TKyloW0DAiYFOdy/giphy.gif)
+
+  </div>
+
   
   ## 📊 GitHub Stats:
   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Binara-Prabhanga&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
