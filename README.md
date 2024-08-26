@@ -1,5 +1,4 @@
-## Hi There! 👋
-## I'm Binara Prabhanga
+## Hi There! 👋  I'm Binara Prabhanga
 
 
 🌱 I’m currently working on an Environmental Change prediction algorithm in UAVs 
@@ -14,6 +13,7 @@
 
 ## 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Binara-Prabhanga&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
+
 
 ## 📊 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binara-Prabhanga&layout=compact&langs_count=100&theme=dark)
