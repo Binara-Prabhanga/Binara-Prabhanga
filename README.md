@@ -3,8 +3,6 @@
 <h1>Hi 👋, I'm Binara Prabhanga</h1>
 <h3>A passionate Software Developer from Sri Lanka</h3>
 
-🔭 I’m currently working on **A Weather Prediction Algorithm based on Real-Time Data on a UAV**
-
 🌱 I’m currently learning **Deep Learning, Machine Learning, and more**
 
 📝 I regularly write articles on [Medium](https://medium.com/@binaraprabhanga)
